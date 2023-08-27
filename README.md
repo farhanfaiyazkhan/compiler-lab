@@ -1,1 +1,1 @@
-This repository consists of all the lab practicals for Compiler Design and Construction.
+Symbol table implementation in C++, using hashing.
